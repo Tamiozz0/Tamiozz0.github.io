@@ -64,3 +64,15 @@ h2 {
     vertical-align: middle; 
     margin-left: 40px; 
 }
+h3 {
+   border: 1px solid #ddd;
+   padding: 10px; 
+   margin-bottom: 15px; 
+   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+p {
+ 
+   margin-bottom: 20px; 
+  
+}
